@@ -1,1 +1,1 @@
-Git PR demo
+GitHub PR demo
